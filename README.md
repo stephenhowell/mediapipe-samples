@@ -1,3 +1,7 @@
+This repo **Body Blocks for Android** is a modification of the MediaPipe sample for Pose estimation.  
+It is an Android companion app for **Body Blocks for Scratch 3.0**.
+
+## Original Repo Details
 This repo hosts the official MediaPipe samples with a goal of showing the fundamental steps involved to create apps with our machine learning platform. 
 
 External PRs for fixes are welcome, however new sample/demo PRs will likely be rejected to maintain the simplicity of this repo for ongoing maintenance. It is strongly recommended that contributors who are interested in submitting more complex samples or demos host their samples in their own public repos and create written tutorials to share with the community. Contributors can also submit these projects and tutorials to the [Google DevLibrary](https://devlibrary.withgoogle.com/)
